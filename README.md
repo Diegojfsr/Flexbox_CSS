@@ -13,7 +13,7 @@ Explorei o flexbox e como fazer um layout responsivo usando o Flexbox-container.
   </em>
 </h3>  
 
-![](https://github.com/Diegojfsr/Flexbox_CSS_Responsivo/blob/main/Img/Captura%20de%20tela%202023-03-26%20110521.png)
+![](https://github.com/Diegojfsr/Flexbox_CSS/blob/main/Flexbox/print/Captura%20de%20tela%202023-03-26%20110521.png)
 
 Explorei o flexbox e como fazer um layout responsivo usando o Flexbox-container.
 
