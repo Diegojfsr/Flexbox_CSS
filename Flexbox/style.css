@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Flexbox-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(188, 228, 255);
+}
+
+.Flexbox{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(10, 104, 245);
+    border-radius: 15px;
+    margin: 2%;
+    line-height: 200px;
+    color: aliceblue;
+    text-align: center;
+
+}
+.Flexbox-container2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(255, 220, 241);
+}
+
+.Flexbox2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(245, 10, 69);
+    border-radius: 15px;
+    margin: 2%;
+    line-height: 200px;
+    color: aliceblue;
+    text-align: center;
+
+}
